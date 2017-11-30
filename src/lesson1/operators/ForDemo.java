@@ -1,4 +1,4 @@
-package operators;
+package lesson1.operators;
 
 public class ForDemo {
     public static void main(String[] args) {

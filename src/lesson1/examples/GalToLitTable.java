@@ -1,4 +1,4 @@
-package examples;
+package lesson1.examples;
 
 public class GalToLitTable {
     public static void main(String[] args) {

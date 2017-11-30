@@ -1,4 +1,4 @@
-package examples;
+package lesson1.examples;
 
 public class MoonWeight {
     public static void main(String[] args) {

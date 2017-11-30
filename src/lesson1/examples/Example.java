@@ -1,4 +1,4 @@
-package examples;
+package lesson1.examples;
 
 public class Example {
     // Выполнение любой программы на Java начинается
